@@ -165,6 +165,55 @@ document.addEventListener("DOMContentLoaded", () => {
                 time: "৫ ঘণ্টা আগে",
                 views: "১.৯ হাজার"
             },
+             {
+                id: 61,
+                category: "বিনোদন",
+                title: "নতুন সিনেমা নিয়ে দর্শকদের মধ্যে ব্যাপক আগ্রহ",
+                description: "নতুন সিনেমার ট্রেলার প্রকাশের পর দর্শকদের মধ্যে ব্যাপক আগ্রহ তৈরি হয়েছে।",
+                image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1200&q=85",
+                time: "১ ঘণ্টা আগে",
+                views: "৩ হাজার"
+            },
+
+             {
+                id: 41,
+                category: "অর্থনীতি",
+                title: "রেমিট্যান্স প্রবাহে রেকর্ড বৃদ্ধি",
+                description: "রেমিট্যান্স প্রবাহ বৃদ্ধিতে অর্থনীতিতে ইতিবাচক প্রভাব পড়ছে।",
+                image: "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1200&q=85",
+                time: "১ ঘণ্টা আগে",
+                views: "৩.৮ হাজার"
+            },
+
+            {
+                id: 51,
+                category: "আন্তর্জাতিক",
+                title: "বিশ্ববাজারে নতুন অর্থনৈতিক পরিবর্তন",
+                description: "বিশ্ব অর্থনীতিতে সাম্প্রতিক পরিবর্তনের প্রভাব নিয়ে বিশ্লেষণ।",
+                image: "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=85",
+                time: "১ ঘণ্টা আগে",
+                views: "২.৮ হাজার"
+            },
+
+             {
+                id: 71,
+                category: "লাইফস্টাইল",
+                title: "সুস্থ থাকতে দৈনন্দিন জীবনে যেসব অভ্যাস জরুরি",
+                description: "দৈনন্দিন জীবনে কিছু ভালো অভ্যাস সুস্থ জীবনযাপনে সাহায্য করতে পারে।",
+                image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=85",
+                time: "২ ঘণ্টা আগে",
+                views: "২.২ হাজার"
+            },
+
+            {
+                id: 21,
+                category: "রংপুর",
+                title: "রংপুরে শীতকালীন প্রস্তুতিতে প্রশাসনের বিশেষ নির্দেশনা",
+                description: "উত্তরাঞ্চলে শীত মোকাবিলায় প্রশাসন বিশেষ প্রস্তুতি গ্রহণ করেছে।",
+                image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=85",
+                time: "৩০ মিনিট আগে",
+                views: "২.২ হাজার"
+            },
 
             {
                 id: 34,
